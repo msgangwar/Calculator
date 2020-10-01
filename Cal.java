@@ -141,7 +141,6 @@ public class FinalCalculator extends Frame implements ActionListener,WindowListe
 
 	@Override
 	public void keyTyped(KeyEvent arg0) {
-		// TODO Auto-generated method stub
 		char c=arg0.getKeyChar();
 		if(!(Character.isDigit(c)||c=='+'||c=='-'||c=='*'||c=='/'))
 			arg0.consume();
