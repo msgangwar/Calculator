@@ -349,7 +349,9 @@ public class FinalCalculator extends Frame implements ActionListener,WindowListe
 			}
 			
 			sum=a[m];
+			//calculated result
 			result.setText(sum.toString());
+			
 		}
 		
 	}
