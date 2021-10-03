@@ -1,2 +1,2 @@
 # Calculator App
-### Simple calculator app developed using AWT java with UI
+# Simple calculator app developed using AWT java with UI
